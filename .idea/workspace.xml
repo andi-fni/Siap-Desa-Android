@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="64c5b652-ebc9-4270-98cd-fa75ec45b604" name="Default" comment="" />
     <ignored path="Siap-Desa-Android.iws" />
